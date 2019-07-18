@@ -18,18 +18,17 @@ Arrays. Lists. Tuples. Sets. Dictionaries. Hashtables. Higher Order Programming.
 
 ## Week 4 - Good Programming Practices
 
-(TBC)
+Testing and Debugging. Exceptions and Assertions.
 
-## Week 5 - Algorithmic Complexity
+## Week 5 - Object Oriented Programming
 
-(TBC) 
+Classes. Objects. Methods. Inheritence. Polymorphism. Encapsulation. Abstraction.
 
-## Week 6 - Plotting
+## Week 6 - Algorithmic Complexity
 
-(TBC)
+Computational Complexity. Searching and Sorting Algorithms. 
 
-## Week 7 - Final Exam
-
+## Week 7 - 
 (TBC)
 
 
